@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run click here : https://react-tech-vikassingh8.vercel.app/
 
 ### `npm start`
 
